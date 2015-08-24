@@ -10,7 +10,7 @@ send/share Text Messages with titel on the page
 - All dependencies are installed by using `pip install Flask == 0.10.1`. (The Version is important)
 - Next, check youre config by using `export FLASKR_SETTINGS = config.cfg` 
 - Create the database with the provided schema.sql: `sqlite3 /tmp/flaskr.db < schema.sql`
-- Let's start! `python flaskr.py` (Open the URL in youre Browser)
+- Let's start! `python flaskr.py` (Open the URL in your Browser)
 
 
 ## Where are the docs?
