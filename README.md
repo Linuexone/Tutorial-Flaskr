@@ -1,7 +1,7 @@
 Tutorial-Flaskr
 ===============
 With Tutorial-Flaskr you can login with a user and 
-send/share Text Messages with titel into the page
+send/share Text Messages with titel on the page
 
 
 # What is Flask?
