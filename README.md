@@ -6,11 +6,10 @@ send/share Text Messages with titel on the page
 
 # What do I need?
 
-- We encourage you to use a virtualenv, install: `pip install virtualenv`
-- create a virtualenv project `mkvirtualenv tutorial-flaskr`
+- We encourage you to use a virtualenv.
 - All dependencies are installed by using `pip install Flask == 0.10.1`. (The Version is important)
-- Next, check youre config by using `echo FLASKR_SETTINGS = config.cfg` (When you have that file, open with: subl config.cfg)
-- We need a Database, the created file schema.sql import into flaskr.db: `sqlite3 /tmp/flaskr.db < schema.sql`
+- Next, check youre config by using `export FLASKR_SETTINGS = config.cfg` 
+- Create the database with the provided schema.sql: `sqlite3 /tmp/flaskr.db < schema.sql`
 - Let's start! `python flaskr.py` (Open the URL in youre Browser)
 
 
