@@ -8,7 +8,7 @@ send/share Text Messages with titel on the page
 
 - We encourage you to use a virtualenv.
 - All dependencies are installed by using `pip install Flask == 0.10.1`. (The Version is important)
-- Next, check youre config by using `export FLASKR_SETTINGS = config.cfg` 
+- Next, check your config by using `export FLASKR_SETTINGS = config.cfg` 
 - Create the database with the provided schema.sql: `sqlite3 /tmp/flaskr.db < schema.sql`
 - Let's start! `python flaskr.py` (Open the URL in your Browser)
 
